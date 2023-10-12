@@ -1,0 +1,12 @@
+{
+    "name": "pegasus-minut",
+    "version": "0.0.1",
+    "description": "Pegasus Chat App",
+    "type": "module",
+    "dependencies": {
+        "body-parser": "^1.20.2",
+        "express": "^4.18.2",
+        "nodemon": "^3.0.1",
+        "socket.io": "^4.7.2"
+    }
+}
